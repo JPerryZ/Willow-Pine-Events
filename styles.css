@@ -11,6 +11,14 @@ h1 {
     line-height: 1.5;
 }
 
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #3498db;
+  border: 2px solid #333;
+  border-radius: 12px;
+}
+
 button {
     padding: 10px 20px;
     background: #8e44ad;
