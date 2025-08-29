@@ -26,4 +26,4 @@ https://willowandpine.netlify.app/
 
 ## GitHub Repo
 [GitHub Repository]
-https://github.com/JenTheNenn/willow-pine-landing
+https://github.com/JenTheNenn/Willow-Pine-Events/tree/main
