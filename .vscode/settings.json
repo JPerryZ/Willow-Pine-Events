@@ -18,5 +18,22 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveWhenNoErrors": true,
     "workbench.commandPalette.experimental.suggestCommands": true,
-    "workbench.commandPalette.preserveInput": true
-}
+    "workbench.commandPalette.preserveInput": true,
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+      "editor.formatOnSave": true
+    },
+    "[typescript]": {
+      "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+      "editor.formatOnSave": true
+    },
+    "[json]": {
+      "editor.formatOnSave": true
+    }
+  }
