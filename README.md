@@ -22,7 +22,8 @@ boho-chic + minimalist elegance.
 
 ## Live Demo
 [View Site on Netlify]
-https://willowandpine.netlify.app/
+[https://willowandpine.netlify.app/]
+(https://jperryz.github.io/Willow-Pine-Events/)
 
 ## GitHub Repo
 [GitHub Repository]
