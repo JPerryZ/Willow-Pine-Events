@@ -1,7 +1,8 @@
 # Willow & Pine Events Landing Page
 
 ## Overview
-Single-page marketing site for Willow & Pine Events: boho-chic + minimalist elegance.
+Craft a single-page marketing site for Willow & Pine Events: 
+boho-chic + minimalist elegance.
 
 ## Tools Used
 - VS Code (Live Server, Prettier)
@@ -11,7 +12,7 @@ Single-page marketing site for Willow & Pine Events: boho-chic + minimalist eleg
 
 ## Features Implemented
 - Responsive layout (mobile-first)
-- Contact form with validation (+ Netlify Forms)
+- Contact form with validation
 - Clean, semantic HTML/CSS
 - Accessible color/labels
 
@@ -20,7 +21,9 @@ Single-page marketing site for Willow & Pine Events: boho-chic + minimalist eleg
 - Mobile nav toggle → button with `aria-expanded`
 
 ## Live Demo
-[View Site on Netlify](https://your-netlify-link.netlify.app)
+[View Site on Netlify]
+https://willowandpine.netlify.app/
 
 ## GitHub Repo
-[GitHub Repository](https://github.com/JenTheNenn/willow-pine-landing)
+[GitHub Repository]
+https://github.com/JenTheNenn/willow-pine-landing
